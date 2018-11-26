@@ -1,3 +1,9 @@
+Changelog:
+===
+20181126
+* Fixed middle mouse button
+
+
 Unmaintained
 ===
 
